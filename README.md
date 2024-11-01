@@ -8,13 +8,10 @@ Shift Left é uma prática que consiste em antecipar tais atividades, que normal
 
 ## O Shift Left também contribui para:
 
-A redução de custos, pois encontrar e corrigir erros no início é mais barato do que no final.
-
-A melhoria da qualidade do software, pois testes frequentes garantem maior confiabilidade.
-
-O aumento da colaboração entre equipes, pois incentiva a comunicação entre desenvolvedores, testers e equipe de operações.
-
-A entrega mais rápida de valor ao cliente, pois os ciclos de desenvolvimento são mais curtos e possibilitam o feedback contínuo.
+- A redução de custos, pois encontrar e corrigir erros no início é mais barato do que no final.
+- A melhoria da qualidade do software, pois testes frequentes garantem maior confiabilidade.
+- O aumento da colaboração entre equipes, pois incentiva a comunicação entre desenvolvedores, testers e equipe de operações.
+- A entrega mais rápida de valor ao cliente, pois os ciclos de desenvolvimento são mais curtos e possibilitam o feedback contínuo.
 
 ## Significado do termo "Shift Left"
 
