@@ -83,3 +83,26 @@ Analisar métricas e indicadores:
 - Entenda o tempo que leva para uma tarefa ser concluída, desde o início até a entrega. Atrasos frequentes podem indicar gargalos ou esperas.
 - Investigue como está o número de bugs e falhas. Um aumento no número de bugs pode indicar sobrecarga de trabalho, falta de testes adequados ou problemas de comunicação.
 - Veja como está o tempo que as tarefas ficam paradas aguardando a ação de outra pessoa ou equipe. Longos tempos de espera indicam gargalos no processo.
+
+Realizar pesquisas e coleta de feedback:
+
+- Avalie a satisfação da equipe, o nível de colaboração e a percepção sobre a liderança (pesquisas de clima organizacional).
+- Obtenha feedback de múltiplas fontes (pares, subordinados, superiores) para ter uma visão completa do desempenho da equipe e da liderança (feedback 360 graus).
+- Promova conversas abertas com a equipe para discutir os desafios e as oportunidades de melhoria.
+
+
+Utilizar ferramentas de visualização e gestão do trabalho:
+
+- Visualizar o fluxo de trabalho e identificar gargalos, tarefas acumuladas e tempo de espera (sugiro o uso de Kanban).
+- Investigar as causas dos problemas, como gargalos, atritos e sobrecarga de trabalho.
+- Acompanhar o progresso do projeto e identificar possíveis atrasos ou desvios.
+
+Promover a auto-organização e o empoderamento da equipe:
+
+- Dê autonomia para a equipe tomar decisões e resolver problemas, reduzindo a dependência da liderança e a sobrecarga de trabalho.
+- Crie espaços e oportunidades para a equipe trabalhar em conjunto e compartilhar conhecimentos.
+- Promova treinamentos e workshops para desenvolver habilidades de comunicação, empatia e resolução de conflitos.
+
+Ao aplicar essas estratégias, a liderança poderá identificar os problemas existentes na equipe e tomar medidas para resolvê-los, criando um ambiente de trabalho mais eficiente, colaborativo e positivo. Uma comunicação aberta e transparente é fundamental para construir confiança e promover a melhoria contínua.
+
+Outras equipes, como RH e agilistas, com sua expertise em pessoas e processos, podem ser aliadas poderosas na implementação do Shift Left, facilitando a comunicação, removendo obstáculos e promovendo a colaboração entre as equipes, e ajudar em muitos dos itens listados acima.
