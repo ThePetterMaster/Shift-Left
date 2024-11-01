@@ -27,17 +27,12 @@ Antigamente, o modelo cascata era a abordagem mais comum para organizar o desenv
 
 O modelo cascata era uma abordagem comum para organizar o desenvolvimento de software. Esse modelo incluía etapas como:
 
-Planejamento, em que ocorre a definição do problema, análise de viabilidade, gerenciamento de riscos e definição do cronograma e orçamento.
-
-Análise, em que é feita a coleta de informações, muitas vezes chamadas de requisitos, sobre funcionalidades, desempenho, segurança e usabilidade desejadas para o software, e a análise e modelagem do sistema.
-
-Codificação, em que o código do software é escrito de fato.
-
-Testes, em que as lógicas internas do software e as funcionalidades são testadas.
-
-Deploy, em que o software é disponibilizado em um ambiente para que outras pessoas possam acessá-lo.
-
-Como os usuários tinham acesso somente muito tempo depois de o início do desenvolvimento do software, os problemas surgiam e resolvê-los custava muito mais caro. Ou seja, esse processo tinha problemas, que foram percebidos ao longo dos anos.
+- Planejamento, em que ocorre a definição do problema, análise de viabilidade, gerenciamento de riscos e definição do cronograma e orçamento.
+- Análise, em que é feita a coleta de informações, muitas vezes chamadas de requisitos, sobre funcionalidades, desempenho, segurança e usabilidade desejadas para o software, e a análise e modelagem do sistema.
+- Codificação, em que o código do software é escrito de fato.
+- Testes, em que as lógicas internas do software e as funcionalidades são testadas.
+- Deploy, em que o software é disponibilizado em um ambiente para que outras pessoas possam acessá-lo.
+- Como os usuários tinham acesso somente muito tempo depois de o início do desenvolvimento do software, os problemas surgiam e resolvê-los custava muito mais caro. Ou seja, esse processo tinha problemas, que foram percebidos ao longo dos anos.
 
 Por isso, com o tempo, surgiram novas abordagens, como o manifesto ágil e as metodologias ágeis, amplamente utilizadas hoje. No entanto, mesmo com metodologias ágeis, como o Scrum, ainda precisamos realizar atividades do modelo cascata, mas essas atividades aconteciam durante as sprints (ciclos de desenvolvimento).
 
@@ -55,13 +50,13 @@ Outro problema é o travamento, porque as atividades são realizadas em ciclos. 
 
 Problemas
 
-Espera
+- Espera
 
-Gargalo
+- Gargalo
 
-Sobrecarga de trabalho
+- Sobrecarga de trabalho
 
-Atrito entre as pessoas/times
+- Atrito entre as pessoas/times
 
 Consequentemente, esses problemas podem gerar conflitos entre times. Isso costuma acontecer com os times de desenvolvimento e operações, mas pode acontecer com outros times também, como programação e testes. A considerada demora da entrega pode levar a discussões e brigas, criando mais barreiras entre os times.
 
