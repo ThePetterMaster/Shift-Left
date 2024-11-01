@@ -68,3 +68,18 @@ Atrito entre as pessoas/times
 
 Consequentemente, esses problemas podem gerar conflitos entre times. Isso costuma acontecer com os times de desenvolvimento e operações, mas pode acontecer com outros times também, como programação e testes. A considerada demora da entrega pode levar a discussões e brigas, criando mais barreiras entre os times.
 
+## Como entender quais problemas existem na sua equipe atualmente
+
+É crucial que uma liderança em um time de software esteja atenta a esses problemas, que podem minar a produtividade e o moral da equipe. Para identificá-los, aqui estão algumas ações que a liderança pode tomar:
+
+Observação direta e comunicação aberta:
+
+- Acompanhe o dia a dia da equipe, participando de reuniões, observando o fluxo de trabalho e interagindo com as pessoas.
+- Incentive a equipe a expressar suas opiniões e dificuldades abertamente, sem medo de represálias.
+- Realize conversas individuais com cada membro da equipe para entender seus desafios, frustrações e percepções sobre o ambiente de trabalho.
+
+Analisar métricas e indicadores:
+
+- Entenda o tempo que leva para uma tarefa ser concluída, desde o início até a entrega. Atrasos frequentes podem indicar gargalos ou esperas.
+- Investigue como está o número de bugs e falhas. Um aumento no número de bugs pode indicar sobrecarga de trabalho, falta de testes adequados ou problemas de comunicação.
+- Veja como está o tempo que as tarefas ficam paradas aguardando a ação de outra pessoa ou equipe. Longos tempos de espera indicam gargalos no processo.
